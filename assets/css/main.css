@@ -1,0 +1,38 @@
+*{
+	margin:0;
+}
+.menu{
+	border-radius: 0;
+}
+.titulo{
+	
+	font-size: 5em;
+	font-weight: bolder;
+}
+.title{
+	background-color: #DCDCDC;
+	margin:0.5em;
+	padding: 4em;
+}
+.buttons{
+	margin: 0.5em;
+}
+.title-2{
+font-size: 3em;
+font-weight: bolder;
+}
+.bton{
+	margin-top:0.6em;
+}
+.title-3{
+font-size: 3em;
+font-weight: bolder;
+padding-top:1em;
+}
+.thum{
+	width: 200px;
+	height: 200px;
+}
+.inbox{
+	padding-bottom: 1em;
+}
